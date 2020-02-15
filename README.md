@@ -64,6 +64,7 @@
 3. :newspaper: ACID vs. BASE Explained - [Link](https://neo4j.com/blog/acid-vs-base-consistency-models-explained/)
 4. :newspaper: Introduction to Database Design - [Link](https://www.datanamic.com/support/lt-dez005-introduction-db-modeling.html)
 5. :newspaper: A beginners guide to SQL - [Link](https://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql/)
+6. :newspaper: How Sharding Works - [Link](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6)
 
 ## REST API Design
 
