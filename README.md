@@ -1,5 +1,7 @@
 # Must Read Resources for Java Developers
 
+> I am building a course on how to build production apps using LLMs. We will cover topics like prompt engineering, RAG, search, testing and evals, fine tuning, feedback analysis, and agents. You can register now and get 50% discount. Register using form – https://forms.gle/twuVNs9SeHzMt8q68
+
 ## Legends
 
 - :video_camera: — Video talk
