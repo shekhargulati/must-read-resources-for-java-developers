@@ -80,6 +80,8 @@
 1. :newspaper: Spring Tutorial - [Link](https://www.baeldung.com/spring-tutorial)​ 
 2. :newspaper: Spring Persistence Tutorial - [Link](https://www.baeldung.com/persistence-with-spring-series)
 3. :newspaper: Security with Spring - [Link](https://www.baeldung.com/security-spring)
+4. :newspaper: Spring Interviews - [Link](https://boldcoder.blogspot.com/2024/07/spring-interview-questions.html)
+
 
 ## Scalability
 
